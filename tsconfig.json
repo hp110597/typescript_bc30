@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "ES5", //js prototype (Chưa có class chỉ có function)
+  }
+}
+ 
